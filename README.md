@@ -2,8 +2,8 @@
 
 <b>Tools and Technologies Used:</b>
 <ul>
-  <ol> Java 8+</ol>
-  <ol>Spring Boot </ol>
+  <li> Java 8+</li>
+  <li>Spring Boot </li>
   <ol> Spring MVC </ol>
   <ol> Spring Data JPA(Hibernate)</ol>
   <ol> MySQL</l>

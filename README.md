@@ -2,11 +2,11 @@
 
 <b>Tools and Technologies Used:</b>
 <ul>
-  <l> Java 8+</l>
-  <l>Spring Boot </l>
-  <l> Spring MVC </l>
-  <l> Spring Data JPA(Hibernate)</l>
-  <l> MySQL</l>
-  <l> Thymeleaf</l>
-  <l>Spring Tool Suite IDE </l>
+  <ol> Java 8+</ol>
+  <ol>Spring Boot </ol>
+  <ol> Spring MVC </ol>
+  <ol> Spring Data JPA(Hibernate)</ol>
+  <ol> MySQL</l>
+  <ol> Thymeleaf</ol>
+  <ol>Spring Tool Suite IDE </ol>
 </ul>
